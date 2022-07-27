@@ -19,9 +19,9 @@ Discord-RoleRainbow is a Discord bot that allows to get a rainbow role on your s
 ### Config.json
 ```json
 {
- "token":"YOUR_PREFIX",
- "server_ID":"ID_SERVEUR",
- "role_ID":"LOGCHANNEL_SERVEUR",
+ "token":"YOUR_TOKEN",
+ "server_ID":"SERVEUR_ID",
+ "role_ID":"ROLE_ID",
  "speed":"60000",
  "color":[
   "#FF0505",
